@@ -8,7 +8,7 @@ define( 'DB_USERNAME', 'caproverTest' );
 define( 'DB_PASSWORD', 'caproverTest' );
 define( 'DB_DATABASE', 'caproverTest' );
 
-require_once $_SERVER['DOCUMENT_ROOT'].'/classes/BasicDB.php';
+require_once '/var/www/html/classes/BasicDB.php';
 
 
 
